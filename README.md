@@ -88,4 +88,4 @@ Very welcome!
 
 1. Fork it (https://github.com/itsonlycode/nextcloud-openshift/fork)
 
-This was originaly forked from (https://github.com/tobru/nextcloud-openshift/fork)
+This was originaly forked from (https://github.com/tobru/nextcloud-openshift)
